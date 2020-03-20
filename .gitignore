@@ -1,0 +1,12 @@
+.idea
+.vscode
+.DS_Store
+*.tmp
+*.swp
+*.swo
+tags
+nginx/*
+*.udb
+Makefile
+objs/*
+
